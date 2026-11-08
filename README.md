@@ -1,3 +1,11 @@
+# Project Structure: 주요 파일 2~3개의 역할
+index.html은 하나만 존재하며, div에 react화면이 들어가는 것이다. 그리고 script를 보면 /src/main.jsx로 연결되어 있고, 해당 파일로 이동하면, ./App.jsx로 연결되어 있다.
+# React Component: 주요 컴포넌트 1~2개의 역할
+# Code Analysis: 코드 1개(약 5~15줄)를 선택하여 동작 원리 설명
+
+# 수정 기록
+
+
 # 🎵 React Music Player
 
 A beautiful and responsive music player built with React and Tailwind CSS. Features a modern UI with playlist management, progress controls, volume adjustment, and smooth animations.
