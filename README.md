@@ -35,23 +35,20 @@ App.jsx의 다음 곡으로 바꿔주는 handleNext() 함수에 대해서 동작
 
 # Customizing 수정 기록
 ### Text 수정
-제목을 변경했다.
-수정 파일 : src/App.jsx
-변경 전 : React Music Player
-변경 후 : O(op)SSssss.. music playlist
-OSS를 조금 바꾸어 oops를 합치고 싶었다.
+제목을 변경했다. OSS를 조금 바꾸어 oops를 합치고 싶었다.
+- 수정 파일 : src/App.jsx
+- 변경 전 : React Music Player
+- 변경 후 : O(op)SSssss.. music playlist
 ### Style 수정
-배경색과 컴포넌트 색상을 변경하였다.
-수정파일 : src/App.jsx, src/components/Player.jsx, src/components/SongList.jsx
-변경 전 : bg-gray-900, bg-gray-800, bg-gray-800
-변경 후 : bg-pink-500, bg-pink-200, bg-pink-200
-나의 플레이리스트니, 내가 좋아하는 색상으로 변경하였다.
+배경색과 컴포넌트 색상을 변경하였다. 나의 플레이리스트니, 내가 좋아하는 색상으로 변경하였다.
+- 수정파일 : src/App.jsx, src/components/Player.jsx, src/components/SongList.jsx
+- 변경 전 : bg-gray-900, bg-gray-800, bg-gray-800
+- 변경 후 : bg-pink-500, bg-pink-200, bg-pink-200
 ### UI/DATA 수정
-음악 개수를 표시할 수 있게 변경하였다.
-수정파일 : src/App.jsx
-변경 전 : 아무것도없음
-변경 후 : <p>Total Songs: {songs.length}</p> 추가
-몇개의 음악이 있는지 보고 싶어서 추가했다.
+음악 개수를 표시할 수 있게 변경하였다. 몇개의 음악이 있는지 보고 싶어서 추가했다.
+- 수정파일 : src/App.jsx
+- 변경 전 : 아무것도없음
+- 변경 후 : <p>Total Songs: {songs.length}</p> 추가
 
 # Deployment
 - https://react-music-player-sepia.vercel.app/
