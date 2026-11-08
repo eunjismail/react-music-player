@@ -2,7 +2,7 @@ import { FaPlay } from "react-icons/fa";
 
 const SongList = ({ songs, currentSong, onSelectSong }) => {
   return (
-    <div className="bg-gray-800 rounded-2xl p-4 h-full overflow-y-auto">
+    <div className="bg-pink-200 rounded-2xl p-4 h-full overflow-y-auto">
       <h2 className="text-xl font-bold text-white mb-4">Playlist</h2>
       <div className="space-y-2 max-h-[494px] overflow-y-auto scrollbar-thin scrollbar-thumb-gray-600 scrollbar-track-gray-800 hover:scrollbar-thumb-gray-500">
         {songs.map((song) => (
