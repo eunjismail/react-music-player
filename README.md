@@ -6,7 +6,7 @@ Player가 있다. player의 음악과 관련된 것을 담당하는 컴포넌트
 # Code Analysis: 코드 1개(약 5~15줄)를 선택하여 동작 원리 설명
 App.jsx의 다음 곡으로 바꿔주는 handleNext() 함수에 대해서 동작 원리를 설명하려고 합니다. 우선 findIndex를 통해서 현재 실행되고 있는 음악이 몇번째인지 찾습니다. 그리고 그걸 currentIndex에 저장하고, +1을 한 것을 nextindex에 저장해서 다음 곡 위치를 알아내는 것입니다. 그리고 여기서 songs.length를 통해서 마지막 곡이 되면, 다음에는 첫번째 곡으로 돌아가게 설정해주는 것입니다. 그리고 setCurrentSong으로 지금 음악을 다음 음악으로 최종 변경해주는 동작 원리입니다.
 
-# 수정 기록
+# 수정 기록 
 
 
 # 🎵 React Music Player
