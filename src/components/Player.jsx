@@ -15,7 +15,7 @@ const Player = ({
   onPrevious 
 }) => {
   return (
-    <div className="bg-gray-800 rounded-2xl p-6 text-white">
+    <div className="bg-pink-200 rounded-2xl p-6 text-white">
       {/* Album Art */}
       <div className="w-64 h-64 mx-auto mb-6">
         <img 
