@@ -21,7 +21,8 @@ This project is open source and available under the [MIT License](LICENSE).
    npm install
 3. **Start the development server**
    npm run dev
-  
+사진 :
+![사진](./photos/photo.png)
 
 
 ### Project Structure: 주요 파일 2~3개의 역할
