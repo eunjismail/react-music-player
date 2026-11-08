@@ -63,7 +63,7 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-pink-200 text-white p-4">
+    <div className="min-h-screen bg-pink-500 text-white p-4">
       <div className="max-w-6xl mx-auto">
         <h1 className="text-3xl font-bold text-center mb-8">O(op)SSssss.. music playlist</h1>
 
