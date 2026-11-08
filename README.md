@@ -8,7 +8,7 @@ A beautiful and responsive music player built with React and Tailwind CSS. Featu
 
 **[https://music-player-subash.netlify.app/](https://music-player-subash.netlify.app/)**
 
-## ✨ Features
+## ✨ Features    
 
 - 🎶 **Playlist Management** - Browse and select from multiple songs
 - ⏯️ **Play/Pause Controls** - Intuitive music controls
