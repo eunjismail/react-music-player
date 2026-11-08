@@ -19,6 +19,12 @@ OSS를 조금 바꾸어 oops를 합치고 싶었다.
 변경 전 : bg-gray-900, bg-gray-800, bg-gray-800
 변경 후 : bg-pink-500, bg-pink-200, bg-pink-200
 나의 플레이리스트니, 내가 좋아하는 색상으로 변경하였다.
+### UI/DATA 수정
+음악 개수를 표시할 수 있게 변경하였다.
+수정파일 : src/App.jsx
+변경 전 : 아무것도없음
+변경 후 : <p>Total Songs: {songs.length}</p> 추가
+몇개의 음악이 있는지 보고 싶어서 추가했다.
 
 
 
